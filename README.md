@@ -19,7 +19,7 @@
 
 
 
-![Pierre's github stats](https://github-readme-stats.vercel.app/api?username=PierreMarchand20&show_icons=true&hide=grade)
+![Pierre's github stats](https://github-readme-stats.vercel.app/api?username=PierreMarchand20&show_icons=true&hide_rank=true)
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PierreMarchand20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

@@ -6,8 +6,10 @@
 
 #### About me
 
-- 👨‍💻 &nbsp; I am a Research Associate at the University of Bath
+- 👨🏻‍💻 &nbsp; I am a Research Associate at the University of Bath
+- 👨🏻‍🔬 My fields of research are: applied mathematics | computer science | numerical analysis
 - 🔭 &nbsp; I’m currently working on [Htool](https://github.com/htool-ddm/htool)
+- ✍🏻 I am writing [posts](https://pierremarchand.netlify.app/#posts) about computer tools
 
 
 #### Tech

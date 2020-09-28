@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Webpage Badge](https://img.shields.io/badge/pierremarchand.netlify.app-lightgrey?style=flat-square&logo=google-chrome&logoColor=white)](https://pierremarchand.netlify.app) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pierremarchand20/) [![orcid Badge](https://img.shields.io/badge/-orcid-green?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-2522-6837)
+[![Webpage Badge](https://img.shields.io/badge/pierremarchand.netlify.app-lightgrey?style=flat-square&logo=google-chrome&logoColor=white)](https://pierremarchand.netlify.app) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pierremarchand20/) [![Twitter Badge](https://img.shields.io/badge/-twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/PMarchand20) [![orcid Badge](https://img.shields.io/badge/-orcid-green?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-2522-6837)
 
 ---
 

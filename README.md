@@ -6,7 +6,7 @@
 
 #### About me
 
-- 👨🏻‍💻 &nbsp; I am a Research Associate at the University of Bath
+- 👨🏻‍💻 &nbsp; I am a researcher (ISFP) at [Inria](https://www.inria.fr/en) in [POEMS](https://www.inria.fr/en/poems) team
 - 👨🏻‍🔬 &nbsp; My fields of research are: applied mathematics | computer science | numerical analysis
 - 🔭 &nbsp; I’m currently working on [Htool](https://github.com/htool-ddm/htool)
 - ✍🏻 &nbsp; I am writing [posts](https://pierremarchand.netlify.app/#posts) about computer tools
